@@ -1,0 +1,20 @@
+1.There are 3 type of model in cloud computing services .
+  i.infrastructure as a services, "IaaS"
+  ii.Platform as a services , "PaaS"
+  iii.Software as services , "SaaS"
+  
+2.
+  
+ Probability getting all blackball 
+  11c3/5c3 =2/33
+ 3. 
+  3,20,78,334,1696 ..
+  :- 8410
+ 
+ 4.
+  7113.018/(15.002*25.0210)=18.9496014988 ~ 19
+  
+ 5 sum of four consecutive number 102
+  x+x+1+x+2+x+3=4x+6=102
+  x=24
+  product of extreeme =24*27 =648
